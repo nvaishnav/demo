@@ -35,3 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           echo demo purpose adding text
+          echo added one more line to test
